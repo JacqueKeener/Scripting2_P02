@@ -356,15 +356,19 @@
 "Assets/Scripts/Deck.cs"
 "Assets/Scripts/Hand.cs"
 "Assets/Scripts/InputController.cs"
+"Assets/Scripts/Pile.cs"
 "Assets/Scripts/StateMachine/Base/State.cs"
 "Assets/Scripts/StateMachine/Base/StateMachine.cs"
 "Assets/Scripts/StateMachine/CardGameSM.cs"
 "Assets/Scripts/StateMachine/CardGameState.cs"
 "Assets/Scripts/StateMachine/EnemyTurnCardGameState.cs"
 "Assets/Scripts/StateMachine/LoseCardGameState.cs"
+"Assets/Scripts/StateMachine/MenuCardGameState.cs"
 "Assets/Scripts/StateMachine/PlayerTurnCardGameState.cs"
 "Assets/Scripts/StateMachine/SetupCardGameState.cs"
+"Assets/Scripts/StateMachine/TieCardGameState.cs"
 "Assets/Scripts/StateMachine/WinCardGameState.cs"
+"Assets/Scripts/Universal/AudioHelper.cs"
 -langversion:9.0
 
 /deterministic

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class WinCardGameState : CardGameState
 {
-    [SerializeField] Text winTextUI = null;
+    [SerializeField] GameObject winTextUI = null;
 
     public override void Enter()
     {

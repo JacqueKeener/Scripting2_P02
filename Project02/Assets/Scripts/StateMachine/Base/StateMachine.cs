@@ -10,8 +10,6 @@ public abstract class StateMachine : MonoBehaviour
     State currentState;
     protected State previousState;
 
-    [SerializeField] Text score;
-    [SerializeField] Text deck;
 
     public int leftScore = 0;
     public int rightScore = 0;
@@ -55,15 +53,7 @@ public abstract class StateMachine : MonoBehaviour
 
     private void Update()
     {
-        score.text = leftScore.ToString() + " to " + rightScore.ToString();
-        if (deckHasCards)
-        {
-            deck.text = "Deck and hands are not empty";
-        }
-        else
-        {
-            deck.text = "Deck and hands are empty";
-        }
+        
         if(CurrentState != null && !inTransition)
         {
             currentState.Tick();

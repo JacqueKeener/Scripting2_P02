@@ -6,8 +6,9 @@ using UnityEngine.UI;
 public class CardGameUIController : MonoBehaviour
 {
     [SerializeField] Text enemyThinkingTextUI = null;
-    [SerializeField] Text winTextUI = null;
-    [SerializeField] Text loseTextUI = null;
+    [SerializeField] GameObject winTextUI = null;
+    [SerializeField] GameObject loseTextUI = null;
+    [SerializeField] GameObject tieTextUI = null;
 
     private void OnEnable()
     {
@@ -26,6 +27,7 @@ public class CardGameUIController : MonoBehaviour
         enemyThinkingTextUI.gameObject.SetActive(false);
         winTextUI.gameObject.SetActive(false);
         loseTextUI.gameObject.SetActive(false);
+        tieTextUI.gameObject.SetActive(false);
     }
 
     private void OnEnemyTurnBegan()
@@ -37,5 +39,6 @@ public class CardGameUIController : MonoBehaviour
     {
         enemyThinkingTextUI.gameObject.SetActive(false);
     }
+
 
 }

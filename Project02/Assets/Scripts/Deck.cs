@@ -4,9 +4,7 @@ using UnityEngine;
 
 public class Deck : MonoBehaviour
 {
-    
-    [SerializeField] List<Sprite> cardFronts = new List<Sprite>();
-    [SerializeField] Sprite cardBack;
+    [SerializeField] GameObject cardPrefab;
     [SerializeField] List<int> cardValues = new List<int>();
     [SerializeField] List<Card> cardDeck = new List<Card>();
 
@@ -15,14 +13,13 @@ public class Deck : MonoBehaviour
     {
         for(int i = 0; i < cardValues.Count; i++)
         {
-            if(i < cardFronts.Count)
-            {
-                cardDeck.Add(new Card(cardFronts[i], cardBack, cardValues[i]));
-            }
-            else
-            {
-                cardDeck.Add(new Card(cardBack, cardBack, cardValues[i]));
-            }
+            GameObject g = Instantiate(cardPrefab,transform);
+            g.transform.Translate(0f, 0f, 0.01f * i);
+            Card c = g.GetComponent<Card>();
+            c.showNumber = false;
+            c.SetBelongs(false);
+            c.SetValue(cardValues[i]);
+            cardDeck.Add(c);
         }
         ShuffleDeck();
     }
@@ -36,10 +33,11 @@ public class Deck : MonoBehaviour
             Card c = cardDeck[n];
             cardDeck[n] = cardDeck[r];
             cardDeck[r] = c;
+            n--;
         }
     }
 
-    public Card DrawCard()
+    public Card DealCard()
     {
         Card ret = cardDeck[0];
         cardDeck.RemoveAt(0);
@@ -50,4 +48,5 @@ public class Deck : MonoBehaviour
     {
         return cardDeck.Count == 0;
     }
+
 }

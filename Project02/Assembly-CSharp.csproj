@@ -56,20 +56,24 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\StateMachine\Base\State.cs" />
-    <Compile Include="Assets\Scripts\StateMachine\Base\StateMachine.cs" />
-    <Compile Include="Assets\Scripts\Hand.cs" />
-    <Compile Include="Assets\Scripts\Card.cs" />
-    <Compile Include="Assets\Scripts\Deck.cs" />
-    <Compile Include="Assets\Scripts\StateMachine\CardGameState.cs" />
     <Compile Include="Assets\Scripts\StateMachine\CardGameSM.cs" />
-    <Compile Include="Assets\Scripts\StateMachine\SetupCardGameState.cs" />
     <Compile Include="Assets\Scripts\StateMachine\PlayerTurnCardGameState.cs" />
-    <Compile Include="Assets\Scripts\InputController.cs" />
-    <Compile Include="Assets\Scripts\StateMachine\EnemyTurnCardGameState.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\LoseCardGameState.cs" />
     <Compile Include="Assets\Scripts\CardGameUIController.cs" />
     <Compile Include="Assets\Scripts\StateMachine\WinCardGameState.cs" />
-    <Compile Include="Assets\Scripts\StateMachine\LoseCardGameState.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\EnemyTurnCardGameState.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\Base\StateMachine.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\Base\State.cs" />
+    <Compile Include="Assets\Scripts\Pile.cs" />
+    <Compile Include="Assets\Scripts\Card.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\CardGameState.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\SetupCardGameState.cs" />
+    <Compile Include="Assets\Scripts\InputController.cs" />
+    <Compile Include="Assets\Scripts\Deck.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\TieCardGameState.cs" />
+    <Compile Include="Assets\Scripts\Hand.cs" />
+    <Compile Include="Assets\Scripts\Universal\AudioHelper.cs" />
+    <Compile Include="Assets\Scripts\StateMachine\MenuCardGameState.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

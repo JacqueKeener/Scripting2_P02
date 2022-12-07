@@ -1,0 +1,711 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1670427088406061, "dur":1201, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088407269, "dur":115, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1670427088407400, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1670427088407418, "dur":832, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1670427088408270, "dur":537, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088408807, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088917753, "dur":575, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918329, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918349, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918351, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918357, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918359, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918364, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918366, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918371, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918372, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918377, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918378, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918383, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918385, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918389, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918390, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918395, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918396, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918401, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918403, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918407, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918409, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918414, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918415, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918420, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918421, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918426, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918427, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918432, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918434, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918438, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918440, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918444, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918446, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918450, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918452, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918456, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918458, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918463, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918464, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918469, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918470, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918475, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918477, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918481, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918483, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918488, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918490, "dur":42, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918532, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918549, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088918551, "dur":1666, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1670427088407952, "dur":862, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088408816, "dur":4526, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088413352, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670427088413353, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088413524, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670427088413526, "dur":332, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088413948, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088551816, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670427088553674, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088553723, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088553772, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088553782, "dur":68059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088621876, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088621919, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088621956, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088621965, "dur":25329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088647336, "dur":6675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088654011, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088654061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088654071, "dur":804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088654907, "dur":41043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088695951, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088696019, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088696030, "dur":2460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088698522, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088698586, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088698663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670427088698672, "dur":101354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670427088800065, "dur":117707, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088407986, "dur":837, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088408823, "dur":4533, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088413357, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1670427088413520, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088413835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088543254, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1670427088544243, "dur":119667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670427088663911, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088663973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088663982, "dur":1194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670427088665212, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670427088665247, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088665285, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670427088665292, "dur":87041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670427088752369, "dur":165388, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088407981, "dur":837, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088408819, "dur":4529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088413352, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1670427088413518, "dur":311, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088413834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088541973, "dur":1081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1670427088543093, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088543141, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088543190, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088543198, "dur":46792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088590032, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088590079, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088590132, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088590143, "dur":26861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088617043, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088617082, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088617121, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088617131, "dur":103872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088721034, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088721067, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088721102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670427088721109, "dur":152081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670427088873222, "dur":44558, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088408017, "dur":813, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088408830, "dur":4557, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088413388, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088413619, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088413944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088552635, "dur":6762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088559439, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088559481, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088559523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088559532, "dur":46050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088605656, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088605706, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088605752, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088605772, "dur":30193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088636006, "dur":49819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088685826, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088685869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088685876, "dur":701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088686606, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088686639, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088686673, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670427088686680, "dur":152450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670427088839157, "dur":78632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088408040, "dur":794, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088408834, "dur":4532, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088413370, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1670427088413509, "dur":271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088413820, "dur":17, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088549020, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1670427088550420, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088550471, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088550529, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088550536, "dur":38402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088588990, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088589037, "dur":185, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088589255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088589267, "dur":31291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088620598, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088620633, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088620671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088620681, "dur":27201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088647918, "dur":38960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088686878, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088686921, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088686929, "dur":719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088687678, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088687711, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088687764, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670427088687770, "dur":139206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670427088827003, "dur":90782, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088408095, "dur":743, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088408839, "dur":4539, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088413379, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1670427088413545, "dur":294, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088413934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088549881, "dur":2493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1670427088552416, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670427088552461, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088552518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088552525, "dur":90269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670427088642838, "dur":185306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670427088828144, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088828226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670427088828235, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670427088829273, "dur":88521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088408457, "dur":429, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088408886, "dur":4490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088413377, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1670427088413514, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088413703, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088422519, "dur":1201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1670427088423762, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088423805, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088423839, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088423846, "dur":107738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088531616, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088531652, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088531796, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088531811, "dur":37587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088569439, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088569478, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088569517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088569527, "dur":21991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088591556, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088591600, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088591643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088591653, "dur":43503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088635196, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088635241, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088635361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088635369, "dur":39951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088675356, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088675389, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088675442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088675449, "dur":68299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670427088743782, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1670427088743823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088743830, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1670427088744824, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1670427088744862, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088744868, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1670427088745896, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1670427088746000, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088746040, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670427088746046, "dur":832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1670427088746920, "dur":170825, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088408170, "dur":678, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088408848, "dur":4512, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088413369, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1670427088413504, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088413583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088415085, "dur":1494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1670427088416620, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088416659, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088416703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088417431, "dur":115187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088532661, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088532705, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088532759, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088532765, "dur":30271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088563070, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088563109, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088563146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088563154, "dur":43070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088606261, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088606312, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088606360, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088606366, "dur":37925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088644335, "dur":1888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088646225, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088646302, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088646314, "dur":1828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088648175, "dur":3038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088651213, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088651269, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088651279, "dur":800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088652110, "dur":874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088652984, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088653035, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088653042, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088654074, "dur":986, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088655061, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088655123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088655133, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088656782, "dur":1097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088657879, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088657935, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088657965, "dur":955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088658953, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088658991, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088659028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670427088659035, "dur":187253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670427088846315, "dur":71468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088408203, "dur":648, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088408851, "dur":4523, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088413378, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1670427088413515, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088413798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088535124, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1670427088536638, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088536688, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088536730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088536741, "dur":28888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088565666, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088565709, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088565757, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088565792, "dur":40540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088606393, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088606449, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088606498, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088606505, "dur":30145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088636690, "dur":108248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088744939, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088744980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670427088744987, "dur":2564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670427088747588, "dur":170155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088408237, "dur":619, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088408856, "dur":4505, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088413362, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1670427088413554, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088413808, "dur":26, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088536024, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1670427088537067, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088537103, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088537163, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088537172, "dur":35823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088573039, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088573074, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088573117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088573127, "dur":51956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088625114, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088625147, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088625181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088625187, "dur":28318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088653553, "dur":30573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088684127, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088684211, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088684251, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088685564, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088685598, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088685640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670427088685650, "dur":143418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670427088829099, "dur":88683, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088408560, "dur":341, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088408901, "dur":4485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088413387, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088413692, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088413950, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088553241, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088554829, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088554872, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088554908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088554916, "dur":35437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088590399, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088590519, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088590588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088590596, "dur":32285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088622911, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088622945, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088623004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088623011, "dur":26341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088649387, "dur":7799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088657186, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088657251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088657261, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088658192, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088658232, "dur":830, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088659069, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670427088659077, "dur":101260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670427088760370, "dur":157393, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088408280, "dur":583, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088408863, "dur":4522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088413385, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1670427088413522, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088413646, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088414896, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1670427088416778, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088416805, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088416881, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088417444, "dur":114526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088532021, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088532075, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088532126, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088532137, "dur":92026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088624212, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088624256, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088624302, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088624311, "dur":51548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088675898, "dur":281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088676179, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088676225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088676233, "dur":30728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088706996, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088707031, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088707069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670427088707079, "dur":101901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670427088809018, "dur":108756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088408615, "dur":293, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088408908, "dur":4486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088413395, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02.exe" }}
+,{ "pid":12345, "tid":13, "ts":1670427088413699, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088413812, "dur":22, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088536562, "dur":38249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02.exe" }}
+,{ "pid":12345, "tid":13, "ts":1670427088574847, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670427088574886, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088574925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088574933, "dur":63139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670427088638117, "dur":85415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670427088723533, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088723595, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088723606, "dur":1459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670427088725101, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1670427088725202, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088725279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088726879, "dur":871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1670427088727787, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1670427088727841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088727885, "dur":972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1670427088728893, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":13, "ts":1670427088728934, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088728940, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":13, "ts":1670427088730061, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670427088730098, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088730104, "dur":7969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670427088738110, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670427088738169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088738179, "dur":987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670427088739212, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1670427088739317, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088739409, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088739416, "dur":1177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1670427088740623, "dur":2140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1670427088742764, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088742816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088742827, "dur":841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1670427088743713, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/level0.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670427088743754, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088743760, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/level0.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670427088744819, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670427088744865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670427088744872, "dur":1272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670427088746241, "dur":171507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088408323, "dur":544, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088408867, "dur":4525, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088413393, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1670427088413574, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088413710, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088530006, "dur":2150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1670427088532206, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088532257, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088532306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088532324, "dur":30968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088563331, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088563368, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088563408, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088563415, "dur":28224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088591686, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088591732, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088591775, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088591782, "dur":89243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088681065, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088681102, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088681176, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088681185, "dur":39465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088720685, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088720725, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088720761, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670427088720768, "dur":196904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670427088917700, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":14, "ts":1670427088917702, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088408341, "dur":530, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088408871, "dur":4498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088413370, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1670427088413542, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088413671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088418316, "dur":1069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1670427088419433, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088419478, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088419518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088419527, "dur":113197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088532762, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088532803, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088532833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088532840, "dur":23395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088556333, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088556435, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088556483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088556494, "dur":48270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088604807, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088604846, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088604891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088604903, "dur":28887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088633848, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088633886, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088634139, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088634150, "dur":44099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088678286, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088678323, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088678389, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670427088678400, "dur":90916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670427088769359, "dur":148404, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088408366, "dur":509, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088408875, "dur":4506, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088413391, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1670427088413508, "dur":260, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088413817, "dur":19, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088542200, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1670427088543867, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670427088543913, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088543960, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088543967, "dur":126139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670427088670144, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670427088670184, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088670223, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670427088670232, "dur":131358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670427088801647, "dur":116130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088408408, "dur":470, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088408878, "dur":4495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088413374, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1670427088413531, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088413657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088417969, "dur":1127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1670427088419155, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088419213, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088419259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088419383, "dur":112852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088532274, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088532308, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088532358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088532366, "dur":29728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088562137, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088562172, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088562308, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088562317, "dur":27902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088590263, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088590310, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088590566, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088590575, "dur":33865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088624474, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088624508, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088624553, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088624560, "dur":35366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088659958, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088659993, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088660028, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088660035, "dur":58434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088718507, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088718544, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088718586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1670427088718597, "dur":41599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":17, "ts":1670427088760233, "dur":157526, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088408425, "dur":457, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088408882, "dur":4489, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088413376, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1670427088413534, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088413794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088534705, "dur":1323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1670427088536072, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1670427088536107, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088536144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088536151, "dur":69841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1670427088606032, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1670427088606076, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088606162, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088606173, "dur":67867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1670427088674074, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1670427088674109, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088674146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1670427088674155, "dur":77274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1670427088751473, "dur":166282, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088408134, "dur":710, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088408844, "dur":4514, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088413359, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1670427088413526, "dur":308, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088413838, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088549268, "dur":1419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1670427088550736, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088550791, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088550842, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088550850, "dur":48710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088599594, "dur":784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088600379, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088600446, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088600459, "dur":39723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088640216, "dur":79767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088719984, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088720075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088720085, "dur":1865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088721982, "dur":46117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088768100, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088768196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1670427088768208, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":19, "ts":1670427088769650, "dur":148117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088408481, "dur":409, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088408890, "dur":4487, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088413382, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1670427088413531, "dur":257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088413794, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088530488, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1670427088531887, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088531939, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088532001, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088532009, "dur":29344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088561399, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088561445, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088561521, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088561531, "dur":27702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088589274, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088589325, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088589448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088589456, "dur":48762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088638252, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088638289, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088638325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088638336, "dur":61335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088699706, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088699740, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088699778, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1670427088699785, "dur":92120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":20, "ts":1670427088791934, "dur":125856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088408509, "dur":385, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088408894, "dur":4486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088413385, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":21, "ts":1670427088413529, "dur":311, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088413938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088550745, "dur":1565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":21, "ts":1670427088552381, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088552435, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088552479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088552487, "dur":62317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088614854, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088614887, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088614942, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088614949, "dur":32058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088647055, "dur":50518, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088697575, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088697629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088697638, "dur":803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088698475, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088698510, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088698562, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1670427088698568, "dur":50449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":21, "ts":1670427088749053, "dur":168701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088408540, "dur":358, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088408898, "dur":4485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088413383, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":22, "ts":1670427088413519, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088413597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088414803, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":22, "ts":1670427088416571, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":22, "ts":1670427088416607, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088416643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088417404, "dur":5375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":22, "ts":1670427088422832, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088422881, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088422927, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088422938, "dur":109870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088532839, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088532881, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088532930, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088532935, "dur":58920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088591906, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088591941, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088591996, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088592003, "dur":42230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088634294, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088634333, "dur":225, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088634564, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1670427088634574, "dur":123223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1670427088757837, "dur":159931, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088408258, "dur":601, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088408859, "dur":4504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088413364, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":23, "ts":1670427088413542, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088413682, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088421681, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":23, "ts":1670427088423048, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088423097, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088423136, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088423142, "dur":109325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088532508, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088532567, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088532616, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088532623, "dur":28719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088561395, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088561441, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088561518, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088561528, "dur":27964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088589542, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088589586, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088589635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088589643, "dur":45574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088635259, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088635303, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088635345, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088635354, "dur":37944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088673345, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088673382, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088673501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1670427088673512, "dur":122166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":23, "ts":1670427088795709, "dur":122060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088408584, "dur":321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088408905, "dur":4486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088413391, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088413685, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088413803, "dur":28, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088535555, "dur":20399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088555996, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088556036, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088556081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088556090, "dur":58231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088614360, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088614395, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088614432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088614441, "dur":33907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088648384, "dur":48270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088696655, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088696739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088696750, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088698511, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088698550, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088698807, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1670427088698815, "dur":98066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Jacque Keener PC2/Documents/GitHub/Scripting2_P02/Scripting2_P02/Final Build 01/Project02_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":24, "ts":1670427088796914, "dur":120864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670427088921384, "dur":2351, "ph":"X", "name": "ProfilerWriteOutput" }
+,
